@@ -6,7 +6,6 @@
  */
 
 #include	"r01lib.h"
-r01lib_start;	/* *** place this word before making instance of r01lib classes *** */
 
 Ticker		t;
 DigitalOut	led( GREEN );
